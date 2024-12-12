@@ -2,9 +2,9 @@
     "init 4GB": "BL1 - BOOTROM",
     "load mini-loader": "?????? - some hardware init",
     "NOTICE:  BL31: v2.7(release):v2.7.0-4-gd0df7c0a61": "BL2 - Miniloader",
-    "Back to Miniloader from TZK": "BL31",
+    "Back to Miniloader from TZK": "BL31 - EL3 RT and OPTEE",
     "U-Boot 2019.10-g3265ad2bdd-dirty": "BL2 - Miniloader",
     "Starting kernel ...": "BL33 - U-Boot",
     "EXT4-fs (mmcblk0p18): mounted filesystem": "Linux - Mount Filesystem",
     "login:": "Linux - Userspace Login"
-}
+} 

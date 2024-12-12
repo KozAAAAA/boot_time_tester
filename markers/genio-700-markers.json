@@ -1,0 +1,8 @@
+{
+    "NOTICE:  BL2: Built :": "BROM",
+    "mcupm_init": "BL2",
+    "<debug_uart>": "BL31",
+    "Starting kernel": "BL33 U-Boot",
+    "VFS: Mounted root": "Kernel mount rootfs",
+    "login:": "Userspace login"
+}

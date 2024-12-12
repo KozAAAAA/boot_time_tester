@@ -42,7 +42,7 @@ def main(marker_file_path, log_file_path):
             sys.exit(1)
 
         pre_ts = first_timestamp
-        print("elapsed  spend boot stage")
+        print("elapsed  spent boot stage")
         for line in log_lines:
             for marker, stage_string in marker_file.items():
                 if marker in line:
